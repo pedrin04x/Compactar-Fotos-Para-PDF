@@ -1,4 +1,4 @@
-<h2>Image Resizing Script README</h2>
+<h2>Consolidate Image Script README</h2>
 
 <p>This script provides the ability to consolidate all images from a specific directory into a single PDF file. You have the flexibility to adjust the size and width to your preferences, with the default setting allowing the images to fill the entire page. Upon completion of the process, the generated PDF will be saved as "PFOT.pdf" in the same directory.</p>
 
